@@ -164,14 +164,7 @@ Seamlessly navigate the project with these simple steps:
 - **Reach Out:**
   - You can [reach out via email](sahilmaurya881@gmail.com).
 
-### Git Clone
 
-To clone the repository and access the project files locally, use the following command:
-
-```bash
-git clone https://github.com/virajbhutada/Global-Universities-Success-Analysis.git
-```
----
 
 ## Project Involvement and Customization
 
