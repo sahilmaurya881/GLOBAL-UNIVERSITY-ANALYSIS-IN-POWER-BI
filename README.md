@@ -4,8 +4,7 @@ Comprehensive global analysis of university success utilizing **Power BI, Excel*
 
 
 ---
-
-![Screenshot 2024-04-26 173935](https://images.shiksha.com/mediadata/images/articles/1744019588phpVCRWzS.jpeg)
+<img src="https://raw.githubusercontent.com/sahilmaurya881/GLOBAL-UNIVERSITY-ANALYSIS-IN-POWER-BI/refs/heads/main/Assets/univer.jpeg" alt="ER Diagram" width="1200">
 
 
 ## How to Access Project Materials
